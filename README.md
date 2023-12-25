@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Manu
+- 👋 Hi, I’m Manu Kulali
 - 👀 I’m interested in Web dev,AIML
 - 🌱 I’m currently learning Django,ML frameworks
-- 💞️ I’m looking to collaborate on projects related to python and django
 - 📫 How to reach me manuatw4rk@gmail.com
 
 <!---
