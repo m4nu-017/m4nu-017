@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Manu Kulali
-- 👀 I’m interested in Web dev,AIML
-- 🌱 I’m currently learning Django,ML frameworks
+- 👋 Hi, I’m Manu Kulali, a backend dev and a freelance ui/ux deisginer
+- 👀 I’m interested in blockchain dev
+- 🌱 I’m currently learning rust
 - 📫 How to reach me manuatw4rk@gmail.com
 
 <!---
